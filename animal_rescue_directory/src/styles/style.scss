@@ -1,0 +1,14 @@
+@import 'config';
+@import 'header';
+@import 'showcase';
+@import 'main';
+@import 'input';
+@import 'displayarea';
+@import 'results';
+@import 'result';
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}

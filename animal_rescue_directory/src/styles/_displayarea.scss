@@ -1,0 +1,9 @@
+.display-container {
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr;
+
+    .results-title {
+        grid-column: 2;
+        margin: 20px 0px;
+    }
+}

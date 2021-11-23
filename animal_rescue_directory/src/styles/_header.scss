@@ -1,0 +1,12 @@
+@import 'config';
+
+header {
+    background-color: rgb(56, 56, 56);
+    color: $color;
+    margin-bottom: 0;
+
+    .main-header {
+        padding: 20px 0px;
+        text-align: center;
+    }
+}

@@ -1,0 +1,23 @@
+@import 'config';
+.showcase-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    color: $color;
+    background-color: $primary-bg-color;
+    padding: 20px;
+
+    img {
+        height: 250px;
+        width: 400px;
+        margin-top: 20px;
+    }
+    .tag-lines {
+        h2 {
+            font-size: 35px;
+        }
+        h3 {
+            font-size: 20px;
+        }
+    }
+}
