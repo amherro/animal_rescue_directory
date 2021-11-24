@@ -9,7 +9,9 @@ const Showcase = () => {
                     <h2>Find Your Next Rescue</h2>
                     <h3>We are the #1 site to find the animal rescue nearest you</h3>
                 </div>
-                <img src={topPhoto} alt="Dog and cat" />
+                <div className='image-section'>
+                    <img src={topPhoto} alt="Dog and cat" />
+                </div>
             </div>
         </section>
     )
