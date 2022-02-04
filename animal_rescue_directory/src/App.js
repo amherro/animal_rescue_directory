@@ -1,3 +1,4 @@
+import Footer from './components/Footer';
 import Header from './components/Header';
 import MainArea from './components/MainArea';
 import Showcase from './components/Showcase';
@@ -9,6 +10,7 @@ function App() {
       <Header />
       <Showcase />
       <MainArea />
+      <Footer />
     </div>
   );
 }
