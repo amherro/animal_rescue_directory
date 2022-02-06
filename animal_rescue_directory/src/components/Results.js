@@ -6,6 +6,7 @@ const Results = () => {
     return (
         <div className='results-section'>
             <Result />
+            <Result />
         </div>
     )
 }
