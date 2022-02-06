@@ -13,3 +13,8 @@ const Result = () => {
 }
 
 export default Result
+
+//Put these in modal that opens
+{/* <p className="result-address">555 Main St</p>
+<p className="result-phone">555-123-4567</p>
+<p className="result-site">www.animalrescue.com</p> */}
